@@ -96,4 +96,3 @@ cd backend
 - **Broadcast Topic**: `/topic/chat`
 - **Error Topic**: `/topic/errors`
 
-See [docs/API.md](docs/API.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md), and [docs/PRD.md](docs/PRD.md) for full specifications.
